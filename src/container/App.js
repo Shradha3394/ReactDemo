@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import Person from "./Person/Person";
-import Validation from "./Validation/Validation"
-import Character from "./Character/Character"
+import Person from "../components/Person/Person";
+import Validation from "../components/Validation/Validation"
+import Character from "../components/Character/Character"
 
 class App extends React.Component {
   state = {
